@@ -26,3 +26,5 @@ PHONE_NUMBER=+0987654321   # Your phone to receive alerts<br>
 MY_EMAIL=youremail@gmail.com<br>
 EMAIL_PASSWORD=your_gmail_app_password
 
+##### Note that you also should create a google form with 3 questions (e.g. What's your first/last name and email), then connect it to your spreadsheet, rename it to users and fill it with emails (you can copy link to the form open it in incognito mode and add your emails). 
+
